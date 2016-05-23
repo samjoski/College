@@ -1,8 +1,0 @@
-CS Classes for the Major
-
-MATH 131 - Calculus I
-CSCI 110 - Intro to Programming
-CSCI 150 - Applications of Discrete Structures
-CSCI 205 - Elementary Data Structures & Software Engineering
-CSCI 225 - Machine Organization and Assembly Language
-CSCI 220 - Advanced Data & File Structures
